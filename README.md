@@ -1,0 +1,1 @@
+Shopapp Website is a multi-functional e-commerce platform developed to provide the best and most convenient online shopping experience for users. This project has been designed and implemented with the goal of providing a user-friendly, flexible and secure interface, while delivering high performance and optimal user experience.
